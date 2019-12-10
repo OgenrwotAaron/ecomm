@@ -1,0 +1,55 @@
+.productCard{
+    position: relative;
+    overflow: hidden;
+    box-shadow: #8481816b 1px 1px 10px 5px;
+    border-radius: 5%;
+}
+.productImage{
+    height: 150px;
+    background-position: center;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.itemPrice{
+    position: absolute;
+    top:0;
+    padding: 5px;
+    background: white;
+    border-radius: 0 0 5px 0;
+    box-shadow: #8080806b 2px 1px 5px 1px;
+}
+.addToFav{
+    position: absolute;
+    bottom: 35px;
+    right: 0;
+    padding: 5px;
+    border-radius: 50%;
+    margin: 5px;
+    color: #e22b1d;
+    text-align: center;
+    width: 12%;
+    background: white;
+    height: 12%;
+}
+.itemName{
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(45deg, white, transparent);
+    width: 100%;
+    padding: 5px;
+    margin-left: 5px;
+    border-radius: 5px 0;
+}
+.addToCart{
+    position: absolute;
+    bottom: 5px;
+    height: 12%;
+    width: 12%;
+    right: 0;
+    padding: 5px;
+    background: white;
+    color: #135286;
+    margin: 0 5px;
+    border-radius: 50%;
+    box-shadow: #00000038 1px 1px 10px;
+}

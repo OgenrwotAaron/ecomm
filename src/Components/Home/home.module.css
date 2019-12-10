@@ -1,13 +1,4 @@
 .home{
     background: whitesmoke;
-}
-.productCard{
-    position: relative;
-}
-.productImage{
-    height: 150px;
-    width: 45%;
-    background-position: center;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
+    overflow: hidden;
 }
