@@ -9,9 +9,9 @@ const Home = () => {
     return ( 
         <div className={styles.home}>
             <Slick/>
-            Category List
+            <div className={styles.catList}>Top Selling Products</div>
             <CategoryList/>
-            New Arrival
+            <div className={styles.newArr}>Popular Categories</div>
             <ProductCategory/>
         </div>
      );

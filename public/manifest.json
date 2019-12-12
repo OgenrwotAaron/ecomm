@@ -1,9 +1,9 @@
 {
-  "short_name": "Ecomm",
-  "name": "Ecomm Shop PWA",
+  "short_name": "Myduka",
+  "name": "My Duka PWA",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "/images/logo192.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },

@@ -2,3 +2,6 @@
     background: whitesmoke;
     overflow: hidden;
 }
+.catList, .newArr{
+    padding: 10px;
+}
