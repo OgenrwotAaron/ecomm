@@ -5,7 +5,7 @@ import ProductCard from '../ProductCard/productCard';
 const CategoryList = () => {
 
     const settings={
-        arrows: false,
+        arrows: true,
         infinite:false,
         slidesToShow: 2,
         autoPlay:false
